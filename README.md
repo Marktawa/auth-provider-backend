@@ -1,6 +1,21 @@
 # Strapi Backend for Learning Strapi Authentication Flows with the Facebook Provider Tutorial
 
+The Strapi backend repo for the authentication flow using Facebook provider.
+
 ## Instructions
+
+```console
+git clone git@github.com:Marktawa/auth-provider-backend
+cd auth-provider-backend
+yarn install
+```
+
+
+
+
+
+
+
 
 ## 🚀 Getting started with Strapi
 
